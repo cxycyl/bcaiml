@@ -1,0 +1,34 @@
+[
+    [
+        "JsonDataset",
+        "./data/datasets/FantasticReality_v1/FantasticReality.json"
+    ],
+    [
+        "ManiDataset",
+        "./data/datasets/CASIA2.0"
+    ],
+    [
+        "ManiDataset",
+        "./data/datasets/IMD_20_1024"
+    ],
+    [
+        "JsonDataset",
+        "./data/datasets/compRAISE/compRAISE_1024_list.json"
+    ],
+    [
+        "JsonDataset",
+        "./data/datasets/tampCOCO/sp_COCO_list.json"
+    ],
+    [
+        "JsonDataset",
+        "./data/datasets/tampCOCO/cm_COCO_list.json"
+    ],
+    [
+        "JsonDataset",
+        "./data/datasets/tampCOCO/bcm_COCO_list.json"
+    ],
+    [
+        "JsonDataset",
+        "./data/datasets/tampCOCO/bcmc_COCO_list.json"
+    ]
+]
